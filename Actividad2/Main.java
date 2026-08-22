@@ -59,7 +59,7 @@ public class Main{
                 }
             }
             if(eleccion==7){
-                System.out.println("Mostrando primer siguiente elemento de la lista");
+                System.out.println("Mostrando siguiente tarea:");
                 System.out.println(tareas.peek());
             }
             if(eleccion==8){
