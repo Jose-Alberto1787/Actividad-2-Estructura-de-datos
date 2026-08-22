@@ -34,6 +34,6 @@ public class Stack{
             current = current.next;
             count +=1;
         }
-        return "Hay " + count + " elemntos en el historial";
+        return "Hay " + count + " elementos en el historial";
     }
 }
