@@ -15,7 +15,7 @@ public class Stack{
         }
         String value = top.data;
         top = top.next;
-        return value + "desecha adecuadamente";
+        return value + " desecha adecuadamente";
     }
     public String peek(){
         if(top==null){
