@@ -41,6 +41,6 @@ public class Queue{
             current = current.next;
             cuenta+=1;
         }
-        return "Hay " + cuenta + " tareas pendientes";
+        return "Hay " + cuenta + " tareas";
     }
 }
