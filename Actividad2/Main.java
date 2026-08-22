@@ -39,7 +39,7 @@ public class Main{
                 System.out.println("Accion mas reciente:\n" + acciones.peek());
             }
             if(eleccion==4){
-                System.out.println("Historial" + acciones.size());
+                System.out.println("Historial:");
                 System.err.println(acciones.size());
             }
             if(eleccion==5){
